@@ -59,7 +59,7 @@ The system collects environmental data from sensors connected to an ESP32 and se
                   ▼
               👤 User
 
-💬 Telegram Bot Commands
+##💬 Telegram Bot Commands
 
 The chatbot supports commands such as:
 
@@ -68,7 +68,8 @@ hi	Start interaction with the bot
 status	Check the current plant condition
 water	Get watering-related information
 history	View previous sensor readings
-📂 Project Structure
+
+##📂 Project Structure
 SmartGrow-AI/
 │
 ├── app.py
@@ -78,31 +79,40 @@ SmartGrow-AI/
 ├── requirements.txt
 ├── .env
 └── README.md
-⚙️ How It Works
+
+##⚙️ How It Works
 Sensors collect information about the plant's environment.
 The ESP32 processes and sends the sensor data to the backend.
 The Flask server receives and processes the data.
 Sensor readings are stored in the SQLite database.
 The Telegram chatbot allows users to interact with the system.
 Users can request plant status, watering information, and historical readings.
-🧪 Testing Without Hardware
+
+##🧪 Testing Without Hardware
 
 SmartGrow AI also includes a sensor simulation script that can generate sample sensor readings.
 
 This allows the backend and chatbot functionality to be tested without connecting the physical ESP32 and sensors.
 
-🎯 Objective
+##🎯 Objective
 
 The main objective of SmartGrow AI is to combine IoT monitoring and intelligent plant-care assistance into a simple system that helps users understand plant conditions and make informed watering and maintenance decisions.
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 📱 Mobile application
 🧠 More advanced AI-based plant recommendations
 🌦️ Weather-based plant-care suggestions
 📈 Sensor data visualization
 🔔 Automated watering alerts
 🌿 Support for multiple plant species
-👩‍💻 Project
+
+##👩‍💻 Project
+SmartGrow AI
+Developed as an academic AI & IoT project.
+
+Technologies: Python • Flask • SQLite • ESP32 • Telegram Bot API • IoT
+
+##⭐ If you find this project interesting, feel free to explore the repository!
 
 SmartGrow AI
 Developed as an academic AI & IoT project.
