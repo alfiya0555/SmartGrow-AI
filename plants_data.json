@@ -1,0 +1,46 @@
+{
+    "money plant": {
+        "watering": "Water when top 2–3 cm soil is dry. Avoid overwatering.",
+        "fertilizer": "Use liquid NPK fertilizer every 20–25 days.",
+        "sunlight": "Bright indirect sunlight.",
+        "moisture_range": [30, 60],
+        "light_range": [10000, 20000],
+        "tips": "Wipe leaves regularly and avoid harsh direct sunlight."
+    },
+
+    "tulsi": {
+        "watering": "Water lightly every 1–2 days. Do not let soil fully dry.",
+        "fertilizer": "Mild organic compost every 20 days.",
+        "sunlight": "At least 4–5 hours of direct sunlight.",
+        "moisture_range": [40, 70],
+        "light_range": [15000, 40000],
+        "tips": "Pinch flowers regularly to promote leaf growth."
+    },
+
+    "aloe vera": {
+        "watering": "Water once in 2–3 weeks. Soil must fully dry.",
+        "fertilizer": "Apply succulent fertilizer once every 30 days.",
+        "sunlight": "Bright sunlight or partial shade.",
+        "moisture_range": [10, 40],
+        "light_range": [15000, 30000],
+        "tips": "Ensure well-draining soil to avoid root rot."
+    },
+
+    "rose": {
+        "watering": "Water deeply 2–3 times a week.",
+        "fertilizer": "Use NPK/rose fertilizer every 15 days.",
+        "sunlight": "At least 6 hours of direct sunlight.",
+        "moisture_range": [50, 75],
+        "light_range": [20000, 60000],
+        "tips": "Remove dead flowers regularly to promote growth."
+    },
+
+    "tomato": {
+        "watering": "Keep soil evenly moist. Water daily in summer.",
+        "fertilizer": "Potash-rich fertilizer every 15 days.",
+        "sunlight": "6–8 hours of direct sunlight.",
+        "moisture_range": [60, 85],
+        "light_range": [20000, 70000],
+        "tips": "Provide support sticks for growth and prune lower leaves."
+    }
+}
