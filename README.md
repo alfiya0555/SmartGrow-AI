@@ -60,7 +60,7 @@ The system collects environmental data from sensors connected to an ESP32 and se
               👤 User
 ---
 
-##💬 Telegram Bot Commands
+###💬 Telegram Bot Commands
 
 The chatbot supports commands such as:
 
