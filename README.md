@@ -100,7 +100,21 @@ SmartGrow-AI/
 6. Users can request plant status, watering information, and historical readings.
 
 ---
+## 📸 Project Demo
 
+### 🤖 Telegram Bot Interaction
+
+The Telegram chatbot allows users to monitor their plants and request plant-care information through simple commands.
+
+![Telegram Bot Interaction](telegram-bot-interaction.png)
+
+### 💧 Soil Moisture Alert
+
+The system can identify low soil-moisture conditions and provide an alert to the user through the Telegram chatbot.
+
+![Soil Moisture Alert](soil-moisture-alert.png)
+
+---
 ## 🧪 Testing Without Hardware
 
 SmartGrow AI includes a sensor simulation script that can generate sample sensor readings.
